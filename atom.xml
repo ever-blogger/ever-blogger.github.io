@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ever-blogger.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-11T07:28:10.521Z</updated>
+    <title>Everblogger.cc</title>
+    <updated>2020-10-16T14:49:25.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ever-blogger.github.io"/>
     <link rel="self" href="https://ever-blogger.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Everblogger网站测试</subtitle>
     <logo>https://ever-blogger.github.io/images/avatar.png</logo>
     <icon>https://ever-blogger.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Everblogger.cc</rights>
     <entry>
         <title type="html"><![CDATA[Gridea的第一篇文章]]></title>
         <id>https://ever-blogger.github.io/post/gridea-de-di-yi-pian-wen-zhang/</id>
@@ -19,7 +19,7 @@
         <content type="html"><![CDATA[<h2 id="这是第一篇gridea的文章">这是第一篇Gridea的文章</h2>
 <p>😃😃😃😃</p>
 <h3 id="想到什么就写什么就是这么的简单">想到什么就写什么，就是这么的简单。</h3>
-<figure data-type="image" tabindex="1"><img src="https://ever-blogger.github.io/post-images/1602397663881.gif" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://ever-blogger.github.io/post-images/1602859749818.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
