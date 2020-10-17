@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ever-blogger.github.io</id>
     <title>Everblogger.cc</title>
-    <updated>2020-10-16T14:49:25.066Z</updated>
+    <updated>2020-10-17T07:34:17.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ever-blogger.github.io"/>
     <link rel="self" href="https://ever-blogger.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ever-blogger.github.io/images/avatar.png</logo>
     <icon>https://ever-blogger.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Everblogger.cc</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea 专注的CMS]]></title>
+        <id>https://ever-blogger.github.io/post/gridea-zhuan-zhu-de-cms/</id>
+        <link href="https://ever-blogger.github.io/post/gridea-zhuan-zhu-de-cms/">
+        </link>
+        <updated>2020-10-15T15:02:57.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="专注">专注</h2>
+<p>就如我所说Gridea真的是个很棒的部落格工具<br>
+没有花俏的功能，字体渲染的也不错，至少越多体验来说是优秀的。😁</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gridea的第一篇文章]]></title>
         <id>https://ever-blogger.github.io/post/gridea-de-di-yi-pian-wen-zhang/</id>
